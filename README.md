@@ -46,7 +46,7 @@
 
 ### Latihan 2
 
-#### -Tampilkan n bilangan acak yang lebih kecil dari 0.5.
+#### Tampilkan n bilangan acak yang lebih kecil dari 0.5.
 
 -Kita mulai dengan codingan seperti gambar di bawah ini
 
