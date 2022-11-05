@@ -22,5 +22,13 @@
 
 #### Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
 
-![gambar]{gambar/gambar5.png)
-![gambar]{gambar/gambar6.png)
+![gambar](gambar/gambar5.png)
+![gambar](gambar/gambar6.png)
+
+### Latihan 2
+
+#### -Tampilkan n bilangan acak yang lebih kecil dari 0.5.
+#### -nilai n diisi pada saat runtime
+
+![gambar](gambar/gambar7.png)
+![gambar](gambar/gambar8.png)
