@@ -22,4 +22,5 @@
 
 #### Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
 
-![gambar]{gambar/gambar1.png)
+![gambar]{gambar/gambar5.png)
+![gambar]{gambar/gambar6.png)
