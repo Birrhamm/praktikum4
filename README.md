@@ -63,11 +63,11 @@ Setelah itu kita running maka akan ada perintah untuk memasukan nilai N maka mas
 
 Buat program sederhana dengan input tiga buah bilangan,dari ketiga bilangan tersebut menggunakan if
 
-![gambar1](gambar/Gambar13.jpeg)
+![gambar1](gambar/gambar9.png)
 
 Setelah melakukan perintah di atas masukan lah bilangan dari yang terbesar hingga terkecil maka akan ada hasil yang terbesar yang mana
 
-![gambar1](gambar/Gambar14.jpeg)
+![gambar1](gambar/gambar10.png)
 
 # flowchart lab 2 praktikum 2
 
